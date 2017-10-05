@@ -1,2 +1,3 @@
-# ReactComponent
-React Feature for Timesheet
+
+npm install
+npm start
